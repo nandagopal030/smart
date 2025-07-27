@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "checkbox": "checkbox",
+      "firstname": "First Name",
+      "lastname": "Last Name",
+      "email": "Email",
+      "description": "Description",
+      "action": "Action"
+    }
+  ],
+  "usersList": [
+    {
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john@example.com",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "action": ""
+    }
+  ],
+  "objectTableHeader": [
+    {
+      "objectid": "Object ID",
+      "version": "version",
+      "officialname": "Official Name",
+      "otheracronynm": "Other Acronym",
+      "businessowner": "Business Owner",
+      "domainmanager": "Domain Manager",
+      "sourcesystem": "Source system",
+      "datainterface": "Data Interface",
+      "datasource": "Data Sources",
+      "action": "Action"
+    }
+  ],
+  "objectTableData": [
+    {
+      "objectid": 2,
+      "version": "V2-1-0",
+      "officialname": "Opreational Entity",
+      "otheracronynm": "BU,Entity Buisiness unit",
+      "businessowner": "John Doe",
+      "domainmanager": "Pamela J.Stephenson",
+      "sourcesystem": "GPS",
+      "datainterface": "",
+      "datasource": "",
+      "action": ""
+    }
+  ]
+}

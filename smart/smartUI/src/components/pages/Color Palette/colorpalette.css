@@ -1,0 +1,46 @@
+.main-container-color {
+    margin-left: 4%;
+}
+
+.color-container {
+    display: flex;
+    gap: 12px;
+}
+
+.color-location {
+    display: flex;
+    align-items: center;
+}
+
+.color-location>img {
+    height: 60px;
+}
+
+.color-header>h2 {
+    font-weight: 500;
+    color: #193C6B;
+    margin-bottom: 11px;
+}
+.color-header>p{
+    margin-top: 0;
+    line-height: 1.5rem;
+}
+
+.main-colors>h3 {
+    color: #193C6B;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 11px;
+}
+.main-colors>p{
+    margin-top: 0;
+    line-height: 1.5rem;
+}
+.main-colors>span{
+    color: #d23f9e;
+}
+
+.grid-container-color1{
+    display: grid;
+    grid-template-rows: 1px;
+}
