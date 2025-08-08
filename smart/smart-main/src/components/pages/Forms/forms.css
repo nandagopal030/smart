@@ -1,0 +1,144 @@
+.form-container {
+    display: flex;
+}
+
+.main-container {
+    width: 75%;
+}
+
+.form-img {
+    display: flex;
+    align-items: center;
+}
+
+.form-img>img {
+    height: 54px;
+}
+
+.forms-header {
+    margin-left: 15px;
+}
+
+.forms-header>h2 {
+    margin-bottom: 0;
+    margin-left: 14px;
+    font-weight: 400;
+}
+
+.forms-header>p {
+    margin-top: 10px;
+    margin-left: 16px;
+}
+
+.reference-container {
+    display: flex;
+    background-color: #f9e5f2;
+    width: 97%;
+    border-left: 4px solid #c9007b;
+    padding: 12px;
+}
+
+.ref-icon {
+    display: flex;
+    align-items: center;
+    color: #c9007b;
+}
+
+.ref-para {
+    margin-left: 13px;
+}
+
+.ref-para span {
+    color: #0076a8;
+}
+
+.example-container {
+    display: flex;
+}
+
+
+.example-header>h3 {
+    font-weight: 600;
+}
+
+.example-code {
+    width: 92%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.example-code>button {
+    display: flex;
+    align-items: center;
+    background-color: #e5f1f6;
+    border: 1px solid #0076a8;
+    border-radius: 5px;
+    padding: 2px 10px;
+    gap: 5px;
+    color: #0076a8;
+}
+
+.example-form-header {
+    display: flex;
+    gap: 112px;
+}
+
+
+.form-uname>input {
+    width: 308px;
+    height: 38px;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+
+.form-pnumber>input {
+    width: 308px;
+    height: 38px;
+    border-radius: 7px;
+    border: 1px solid gray;
+
+}
+
+.form-emailaddress>input {
+    width: 308px;
+    height: 38px;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+
+.form-address-para {
+    margin: 0;
+    font-size: 13px;
+    color: gray;
+}
+
+.infoicon {
+    /* height: 18px; */
+    color: #c9007b;
+}
+
+.wrapper {
+    margin-bottom: 40px;
+}
+
+hr {
+    color: gray;
+}
+.select-header{
+    width: 93%;
+}
+.select-container {
+    display: flex;
+}
+
+.select-code>button {
+    display: flex;
+    align-items: center;
+    background-color: #e5f1f6;
+    border: 1px solid #0076a8;
+    border-radius: 5px;
+    padding: 2px 10px;
+    gap: 5px;
+    color: #0076a8;
+}

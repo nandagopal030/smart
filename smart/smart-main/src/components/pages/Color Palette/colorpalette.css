@@ -1,0 +1,289 @@
+.main-container-color {
+    margin-left: 5%;
+}
+
+h3 {
+    font-weight: 200;
+}
+
+.color-container {
+    display: flex;
+    gap: 12px;
+}
+
+.color-location {
+    display: flex;
+    align-items: center;
+}
+
+.color-location>img {
+    height: 60px;
+}
+
+.color-header {
+    margin-top: 12px;
+}
+
+.color-header>h2 {
+    font-weight: 500;
+    color: #193C6B;
+    margin-bottom: 11px;
+}
+
+.color-header>p {
+    margin-top: 0;
+    line-height: 1.5rem;
+}
+
+.main-colors>h3 {
+    color: #193C6B;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 11px;
+}
+
+.main-colors>p {
+    margin-top: 0;
+    line-height: 1.5rem;
+}
+
+.main-colors>span {
+    color: #d23f9e;
+}
+
+.grid-container-color1 {
+    display: grid;
+    grid-template-columns: repeat(6, 110px);
+}
+
+.grid-item1 {
+    background-color: #0075A9;
+    display: flex;
+    justify-content: center;
+}
+
+.grid-item2 {
+    background-color: #4C9EC2;
+    display: flex;
+    justify-content: center;
+}
+
+.grid-item3 {
+    background-color: #E5F1F6;
+    display: flex;
+    justify-content: center;
+}
+
+.grid-item4 {
+    background-color: #193C6B;
+    display: flex;
+    justify-content: center;
+}
+
+.grid-item5 {
+    background-color: #5D7697;
+    display: flex;
+    justify-content: center;
+}
+
+.grid-item6 {
+    background-color: #E7EBF0;
+    display: flex;
+    justify-content: center;
+}
+
+.color-percentage {
+    display: grid;
+    grid-template-columns: repeat(6, 110px);
+
+}
+
+.grid-percent-item1 {
+    display: flex;
+    justify-content: center;
+}
+
+.color-container-parent1 {
+    display: flex;
+    gap: 20px;
+}
+
+.col-container1 {
+    display: flex;
+}
+
+.col1-item1 {
+    background-color: #82e600;
+    padding: 4px 22px;
+}
+
+.col1-item2 {
+    background-color: #A7ED4C;
+    padding: 4px 22px;
+}
+
+.col1-item3 {
+    background-color: #F2FDE5;
+    padding: 4px 22px;
+}
+
+.col-container2 {
+    display: flex;
+}
+
+.col2-item1 {
+    background-color: #4E6B7C;
+    padding: 4px 22px;
+}
+
+.col2-item2 {
+    background-color: #8297A3;
+    padding: 4px 22px;
+}
+
+.col2-item3 {
+    background-color: #EDF0F2;
+    padding: 4px 22px;
+}
+
+.col-container3 {
+    display: flex;
+}
+
+.col3-item1 {
+    background-color: #37B4E5;
+    padding: 4px 22px;
+}
+
+.col3-item2 {
+    background-color: #72CAED;
+    padding: 4px 22px;
+}
+
+.col3-item3 {
+    background-color: #EAF7FD;
+    padding: 4px 22px;
+}
+
+.col-color-container1 {
+    display: flex;
+}
+
+.color-percentage-parent1 {
+    display: flex;
+    gap: 10px;
+}
+
+.color-col1-item11 {
+    display: flex;
+    justify-content: center;
+}
+
+.col2-item1 {
+    background-color: #FFB600;
+}
+
+.col2-item2 {
+    background-color: #FFCB4C;
+}
+
+.col2-item3 {
+    background-color: #FFF8E5;
+}
+
+.col3-item1 {
+    background-color: #DF271c;
+}
+
+.col3-item2 {
+    background-color: #E8675F;
+}
+
+.col3-item3 {
+    background-color: #FDEFEF;
+}
+
+.col4-item1 {
+    background-color: #c9007B;
+    padding: 4px 22px;
+}
+
+.col4-item2 {
+    background-color: #D94CA2;
+    padding: 4px 22px;
+}
+
+.col4-item3 {
+    background-color: #FAE5F1;
+    padding: 4px 22px;
+}
+
+.col-container3 {
+    display: flex;
+}
+
+.col-container-parent3 {
+    display: flex;
+    gap: 20px;
+}
+
+.col5-item1 {
+    background-color: #008557;
+    padding: 4px 22px;
+}
+
+.col5-item2 {
+    background-color: #4CA989;
+    padding: 4px 22px;
+}
+
+.col5-item3 {
+    background-color: #E5F3EE;
+    padding: 4px 22px;
+}
+
+.col6-item1 {
+    background-color: #DF271C;
+    padding: 4px 22px;
+}
+
+.col6-item2 {
+    background-color: #E8675F;
+    padding: 4px 22px;
+}
+
+.col6-item3 {
+    background-color: #FDEFEF;
+    padding: 4px 22px;
+}
+
+.col7-item1 {
+    background-color: #FDEFEF;
+    padding: 4px 22px;
+}
+
+.col7-item2 {
+    background-color: #757C7B;
+    padding: 4px 22px;
+}
+
+.col7-item3 {
+    background-color: #EBECEC;
+    padding: 4px 22px;
+}
+
+.col8-item1 {
+    background-color: #000000;
+    padding: 4px 22px;
+    color: #fff;
+}
+
+.col8-item2 {
+    background-color: #4C4C4C;
+    padding: 4px 22px;
+}
+
+.col8-item3 {
+    background-color: #E5E5E5;
+    padding: 4px 22px;
+}
